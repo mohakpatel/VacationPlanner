@@ -1,0 +1,43 @@
+DATA TYPE,DESCRIPTION,START,END,COVERAGE²
+DLY-DUTR-NORMAL,Long-term averages of daily diurnal temperature range,2010-01-01,2010-12-31,100%
+DLY-DUTR-STDDEV,Long-term standard deviations of daily diurnal temperature range,2010-01-01,2010-12-31,100%
+DLY-TAVG-NORMAL,Long-term averages of daily average temperature,2010-01-01,2010-12-31,100%
+DLY-TAVG-STDDEV,Long-term standard deviations of daily average temperature,2010-01-01,2010-12-31,100%
+DLY-TMAX-NORMAL,Long-term averages of daily maximum temperature,2010-01-01,2010-12-31,100%
+DLY-TMAX-STDDEV,Long-term standard deviations of daily maximum temperature,2010-01-01,2010-12-31,100%
+DLY-TMIN-NORMAL,Long-term averages of daily minimum temperature,2010-01-01,2010-12-31,100%
+DLY-TMIN-STDDEV,Long-term standard deviations of daily minimum temperature,2010-01-01,2010-12-31,100%
+DLY-PRCP-25PCTL,25th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,100%
+DLY-PRCP-50PCTL,50th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,100%
+DLY-PRCP-75PCTL,75th percentiles of daily nonzero precipitation totals for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,100%
+DLY-PRCP-PCTALL-GE001HI,Probability of precipitation >= 0.01 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,100%
+DLY-PRCP-PCTALL-GE010HI,Probability of precipitation >= 0.10 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,100%
+DLY-PRCP-PCTALL-GE050HI,Probability of precipitation >= 0.50 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,100%
+DLY-PRCP-PCTALL-GE100HI,Probability of precipitation >= 1.00 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,92%
+DLY-SNOW-25PCTL,25th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,89%
+DLY-SNOW-50PCTL,50th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,89%
+DLY-SNOW-75PCTL,75th percentiles of daily nonzero snowfall totals for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,89%
+DLY-SNOW-PCTALL-GE001TI,Probability of snowfall >= 0.1 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,94%
+DLY-SNOW-PCTALL-GE010TI,Probability of snowfall >= 1.0 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,94%
+DLY-SNOW-PCTALL-GE030TI,Probability of snowfall >= 3.0 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,94%
+DLY-SNOW-PCTALL-GE050TI,Probability of snowfall >= 5.0 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,98%
+DLY-SNOW-PCTALL-GE100TI,Probability of snowfall >= 10 inches for 29-day windows centered on each day of the year,2010-01-01,2010-12-31,94%
+MTD-PRCP-NORMAL,Long-term average month-to-date precipitation totals,2010-01-01,2010-12-31,100%
+MTD-SNOW-NORMAL,Long-term average month-to-date snowfall totals,2010-01-01,2010-12-31,100%
+YTD-PRCP-NORMAL,Long-term average year-to-date precipitation totals,2010-01-01,2010-12-31,100%
+YTD-SNOW-NORMAL,Long-term average year-to-date snowfall totals,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE45,Long-term averages of daily cooling degree days with base 45F,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE50,Long-term averages of daily cooling degree days with base 50F,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE55,Long-term averages of daily cooling degree days with base 55F,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE57,Long-term averages of daily cooling degree days with base 57F,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE60,Long-term averages of daily cooling degree days with base 60F,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE70,Long-term averages of daily cooling degree days with base 70F,2010-01-01,2010-12-31,100%
+DLY-CLDD-BASE72,Long-term averages of daily cooling degree days with base 72F,2010-01-01,2010-12-31,100%
+DLY-CLDD-NORMAL,Long-term averages of daily cooling degree days with base 65F,2010-01-01,2010-12-31,100%
+DLY-HTDD-BASE40,Long-term averages of daily heating degree days with base 40F,2010-01-01,2010-12-31,100%
+DLY-HTDD-BASE45,Long-term averages of daily heating degree days with base 45F,2010-01-01,2010-12-31,100%
+DLY-HTDD-BASE50,Long-term averages of daily heating degree days with base 50F,2010-01-01,2010-12-31,100%
+DLY-HTDD-BASE55,Long-term averages of daily heating degree days with base 55F,2010-01-01,2010-12-31,100%
+DLY-HTDD-BASE57,Long-term averages of daily heating degree days with base 57F,2010-01-01,2010-12-31,100%
+DLY-HTDD-BASE60,Long-term averages of daily heating degree days with base 60F,2010-01-01,2010-12-31,100%
+DLY-HTDD-NORMAL,Long-term averages of daily heating degree days with base 65F,2010-01-01,2010-12-31,100%
